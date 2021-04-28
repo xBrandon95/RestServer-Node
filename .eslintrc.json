@@ -11,6 +11,8 @@
   },
   "rules": {
     "no-console": "off",
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "consistent-return": "off",
+    "func-names": "off"
   }
 }
